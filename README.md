@@ -185,3 +185,21 @@ Email Verification,
 Audit Logging,
 Multi-Tenant Isolation,
 Row Level Security (RLS)
+
+Project Highlights
+AI-powered grievance management,
+Explainable AI decisions,
+Multi-tenant architecture,
+Real-time notifications,
+SLA monitoring,
+Complaint clustering,
+Duplicate detection,
+Predictive analytics,
+Voice-to-text support,
+AI assistant chatbot
+
+Author
+
+Anshima Varshney
+
+MCA Graduate | Full Stack Developer
