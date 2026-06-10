@@ -9,25 +9,25 @@ Problem Statement-
 
 Educational institutions often rely on manual complaint handling systems that suffer from:
 
-Delayed resolutions
-Incorrect complaint routing
-Lack of prioritization
-No transparency or tracking
-Poor communication between students and administration
+Delayed resolutions,
+Incorrect complaint routing,
+Lack of prioritization,
+No transparency or tracking,
+Poor communication between students and administration,
 Limited analytical insights
 
 IntelliResolve addresses these challenges through intelligent automation and AI-assisted grievance management.
 
 Key Features-
-AI-Powered Complaint Processing
-Complaint category classification
-Sentiment analysis
-Intelligent priority assignment
-Explainable AI recommendations
-Department auto-routing
-SLA deadline calculation
-Duplicate complaint detection
-Complaint clustering
+AI-Powered Complaint Processing,
+Complaint category classification,
+Sentiment analysis,
+Intelligent priority assignment,
+Explainable AI recommendations,
+Department auto-routing,
+SLA deadline calculation,
+Duplicate complaint detection,
+Complaint clustering,
 AI-suggested resolutions
 
 The platform processes every complaint through an 11-step NLP pipeline before assigning it to the appropriate department.
@@ -36,50 +36,50 @@ Role-Based Dashboards-
 
 Student Portal
 
-Submit complaints
-Track complaint status
-View AI explanations
-Receive notifications
-Chat with assigned staff
+Submit complaints,
+Track complaint status,
+View AI explanations,
+Receive notifications,
+Chat with assigned staff,
 Submit feedback
 
 Staff Portal
 
-Manage assigned complaints
-Update resolution progress
-View AI recommendations
+Manage assigned complaints,
+Update resolution progress,
+View AI recommendations,
 Monitor SLA deadlines
 
 Admin Portal
 
-Complaint oversight
-Analytics dashboard
-Escalation management
+Complaint oversight,
+Analytics dashboard,
+Escalation management,
 Department performance tracking
 
 Super Admin Portal
 
-Multi-institution management
-Predictive analytics
-User administration
+Multi-institution management,
+Predictive analytics,
+User administration,
 System-wide monitoring
 
 Smart Automation-
-NLP-based classification
-Sentiment-aware prioritization
-Automatic department assignment
-SLA monitoring and escalation
-Workload balancing
-Duplicate complaint alerts
+NLP-based classification,
+Sentiment-aware prioritization,
+Automatic department assignment,
+SLA monitoring and escalation,
+Workload balancing,
+Duplicate complaint alerts,
 Knowledge-based resolution suggestions
 
 Analytics & Insights-
-Complaint trends
-Category distribution
-Resolution metrics
-SLA compliance reports
-Heatmaps and dashboards
-Predictive complaint forecasting
+Complaint trends,
+Category distribution,
+Resolution metrics,
+SLA compliance reports,
+Heatmaps and dashboards,
+Predictive complaint forecasting,
 Root cause analysis
 
 AI Engine Workflow-
@@ -121,38 +121,38 @@ AI Resolution Suggestions
 Tech Stack-
 Frontend
 
-React.js
-TypeScript
-Tailwind CSS
-Recharts
+React.js,
+TypeScript,
+Tailwind CSS,
+Recharts,
 Zustand
 
 Backend
 
-Node.js
-Express.js
-JWT Authentication
+Node.js,
+Express.js,
+JWT Authentication,
 bcrypt
 
 Database
 
-Supabase
-PostgreSQL
+Supabase,
+PostgreSQL,
 Row Level Security (RLS)
 
 AI & NLP
 
-natural.js
-compromise.js
-TF-IDF
-Cosine Similarity
+natural.js,
+compromise.js,
+TF-IDF,
+Cosine Similarity,
 K-Means Clustering
 
 Integrations
 
-Nodemailer
-SendGrid
-Web Speech API
+Nodemailer,
+SendGrid,
+Web Speech API,
 LLM-powered Chat Assistant
 
 Based on the system architecture and technology stack defined in the dissertation.
@@ -178,10 +178,10 @@ Supabase/PostgreSQL
 Notifications & External Services
 
 Security Features-
-JWT Authentication
-Role-Based Access Control (RBAC)
-Password Hashing with bcrypt
-Email Verification
-Audit Logging
-Multi-Tenant Isolation
+JWT Authentication,
+Role-Based Access Control (RBAC),
+Password Hashing with bcrypt,
+Email Verification,
+Audit Logging,
+Multi-Tenant Isolation,
 Row Level Security (RLS)
